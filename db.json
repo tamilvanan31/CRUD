@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "name": "One Plus 10T",
+      "category": "Electronics",
+      "freshness": "Second hand",
+      "price": 600,
+      "comment": "Second hand phone",
+      "date": "2022-11-15T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "name": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 2,
+      "comment": "Fresh apple from Walmart",
+      "date": "2022-11-22T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "name": "Banana",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 2,
+      "comment": "bananas",
+      "date": "2022-11-15T18:30:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
